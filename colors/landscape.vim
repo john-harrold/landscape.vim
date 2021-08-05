@@ -7,7 +7,8 @@ if exists('syntax_on')
 endif
 
 highlight Normal gui=none guifg=#dddddd guibg=grey0
-highlight Comment term=none ctermfg=243 ctermbg=none gui=none guifg=#767676
+" highlight Comment term=none ctermfg=243 ctermbg=none gui=none guifg=#767676
+highlight Comment term=none ctermfg=243 ctermbg=none gui=none guifg=#80A0FF
 highlight Constant term=none ctermfg=111 gui=none guifg=#87afff
 highlight String term=none ctermfg=215 ctermbg=none gui=none guifg=#ffaf5f
 highlight Character term=none ctermfg=214 ctermbg=none gui=none guifg=#ffaf00
